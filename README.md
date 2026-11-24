@@ -5,7 +5,7 @@
 
 DNS email authentication auditor for spoofing prevention, sender validation, and alignment with NZISM and CERT NZ defensive guidance.
 
-Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT New Zealand**.
+Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py enterprise.co.nz -selector mail -json
 For continuous perimeter monitoring and graphical reporting, access the official web diagnostic suite:
 
 * **DMARC and Email Authentication Checker**
-* **TAVARDT New Zealand Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Enterprise Defense Consulting
 
-For dedicated cybersecurity architecture, threat modeling, and incident readiness in New Zealand, contact **TAVARDT New Zealand**.
+For dedicated cybersecurity architecture, threat modeling, and incident readiness in New Zealand, contact **TAVARDT**.
 
 ***
 
