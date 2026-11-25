@@ -1,12 +1,10 @@
 # DMARC, SPF and DKIM Guardian
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Technical Audit](https://img.shields.io/badge/TAVARDT-Email%20Security-5b3cf5.svg)](https://tools.tavardt.com/nz/dmarc-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 DNS email authentication auditor for spoofing prevention, sender validation, and alignment with NZISM and CERT NZ defensive guidance.
-
-Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT**.
 
 ***
 
@@ -38,15 +36,6 @@ python guardian.py enterprise.co.nz -selector mail -json
 
 ***
 
-## Online Web Diagnostics
-
-For continuous perimeter monitoring and graphical reporting, access the official web diagnostic suite:
-
-* **DMARC and Email Authentication Checker**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Enterprise Defense Consulting
 
 For dedicated cybersecurity architecture, threat modeling, and incident readiness in New Zealand, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For dedicated cybersecurity architecture, threat modeling, and incident readines
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
